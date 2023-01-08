@@ -1,0 +1,3 @@
+C:/Users/hp/CLionProjects/ParallelsLabs-main/lab3/CMakeFiles/lab3_parallel.dir
+C:/Users/hp/CLionProjects/ParallelsLabs-main/lab3/CMakeFiles/edit_cache.dir
+C:/Users/hp/CLionProjects/ParallelsLabs-main/lab3/CMakeFiles/rebuild_cache.dir

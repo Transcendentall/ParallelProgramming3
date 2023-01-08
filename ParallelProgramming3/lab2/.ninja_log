@@ -1,0 +1,7 @@
+# ninja log v5
+7	1458	6948799151794156	CMakeFiles/generator.dir/thread_num.cpp.obj	daf8bb1cc45ee10d
+1	2050	6948799157887725	CMakeFiles/generator.dir/source.cpp.obj	c78dc9c70338ce1f
+2051	2285	6948799160075179	generator.exe	c8890da34a978b99
+1	1066	6948857053564335	CMakeFiles/lab2_generator.dir/thread_num.cpp.obj	975ffde73ce81d1e
+8	1632	6948857059189202	CMakeFiles/lab2_generator.dir/source.cpp.obj	61932b9e962a580
+1633	2205	6948857064970300	lab2_generator.exe	d435790e320a3c6d

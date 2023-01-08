@@ -1,0 +1,12 @@
+# ninja log v5
+7	1526	6948819577281234	CMakeFiles/lab1result.dir/source.cpp.obj	d49bcea484f2a228
+17	781	6948806875189040	CMakeFiles/lab1result.dir/thread_num.cpp.obj	2cfab0b6b4580b18
+2051	2285	6948799160075179	generator.exe	c8890da34a978b99
+1527	1660	6948819578531171	lab1result.exe	c8460c59e9d7c259
+4	552	6948855879117348	build.ninja	bf6e48d3059b7a83
+19	1479	6948822550719213	CMakeFiles/integral.dir/thread_num.cpp.obj	a4c3b4da39a9243e
+1	2707	6948822563085574	CMakeFiles/integral.dir/source.cpp.obj	ca3e4231743ece9b
+2709	4506	6948822572304131	integral.exe	49e6bb6b7ef32908
+1	1623	6948855932241064	CMakeFiles/lab1_integral.dir/thread_num.cpp.obj	e015e77a3b726f1b
+7	2495	6948855941007530	CMakeFiles/lab1_integral.dir/source.cpp.obj	b7d34bb3fe15b78e
+2496	2780	6948855943663710	lab1_integral.exe	aa4db44af853275b
